@@ -1,0 +1,30 @@
+
+.card-image-top {
+    height: 30vh;
+    object-fit: cover;
+    padding: 50;
+    margin: 0;
+}
+
+    
+nav{
+    font-family: 'Amatic SC', cursive;
+}
+
+div{
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+}
+
+h1 {
+  
+    font-size: xx-large;
+    font-family: 'Bellota Text', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    color: seagreen;
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+}
